@@ -1,5 +1,3 @@
-<h3 align="center">Dedicated to optimisation experienced Site Reliability Engineer.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesyscoder&label=Profile%20views&color=0e75b6&style=flat" alt="thesyscoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesyscoder" alt="thesyscoder" /></a> </p>
