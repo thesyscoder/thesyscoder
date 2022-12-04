@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pruthvirajs2007@outlook.com**
 
-- ⚡ Fun fact **SRE is awesome until your pipeline is not breaking the production.**
+- ⚡ Fun fact of **SRE** is, It is awesome until your pipeline is not breaking the production.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
