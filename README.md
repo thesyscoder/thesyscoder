@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesyscoder" alt="thesyscoder" /></a> </p>
 
-- 🔭 I’m currently working on [TheSysCoder](https://www.thesyscoder.com/)
+- 🔭 I’m currently working on, Building automation solution for DevOps/SRE.
 
 - 🌱 I’m currently learning **React,Node JS, MongoDB**
 
