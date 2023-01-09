@@ -1,3 +1,4 @@
+<p align="center"> <img src="thesyscoder.png"></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesyscoder&label=Profile%20views&color=0e75b6&style=flat" alt="thesyscoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesyscoder" alt="thesyscoder" /></a> </p>
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **pruthvirajs2007@outlook.com**
 
-- ⚡ Fun fact of **SRE** is, It is awesome until your pipeline is not breaking the production.**
+- ⚡ Fun fact of **SRE** is, It is awesome until your pipeline is not breaking the production.\*\*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
