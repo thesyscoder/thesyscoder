@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, NodeJS, MongoDB, Microsoft Azure, CI/CD, Python, Docker, Kubernetes, Ansible, Automation**
 
-- 📫 How to reach me **pruthvirajs2007@outlook.com**
+- 📫 How to reach me **thesyscoder@gmail.com**
 
 - ⚡ Fun fact of **SRE** is, It is awesome until your pipeline is not breaking the production.\*\*
 
