@@ -1,6 +1,7 @@
 <p align="center"> <img src="thesyscoder.png" style= "border-radius:20px; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;"></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesyscoder&label=Profile%20views&color=0e75b6&style=flat" alt="thesyscoder" /> </p>
-
+## Site Reliability Engineer | DevOps Enthusiast
+Welcome to my GitHub profile! I'm passionate about all things related to Site Reliability Engineering (SRE) and DevOps. I believe in building robust, scalable, and reliable systems that help businesses deliver value to their customers efficiently.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesyscoder" alt="thesyscoder" /></a> </p>
 
