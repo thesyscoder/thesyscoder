@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hello there! I'm passionate about building robust automation solutions for DevOps and Site Reliability Engineering (SRE). My focus areas include Microsoft Azure, CI/CD, Python, Docker, Kubernetes, and Ansible.<br><br> ### ⚡ Fun Fact<br><br><br>"Site Reliability Engineering: where chaos is the test, uptime is the goal, and we dance with bugs – because debugging is our daily dance-off!" 😄<br><br>
-### 📚 Latest Blog Posts<br><br>- [Ultimate Use of Python ArgParser](https://medium.com/@thesyscoder/ultimate-use-of-python-argparser-4516f1f7d047)<br>- [An Introduction to Ansible’s Pause Module](https://medium.com/@thesyscoder/an-introduction-to-ansibles-pause-module-adding-delays-to-your-playbook-6f59b727ab4)<br>- [Colorful logs printing in PowerShell](https://medium.com/@thesyscoder/colorful-logs-printing-in-powershell-b7785c094aca)<br>
+### 📚 Latest Blog Posts<br><br>
+- [Ultimate Use of Python ArgParser](https://medium.com/@thesyscoder/ultimate-use-of-python-argparser-4516f1f7d047)<br>
+- [An Introduction to Ansible’s Pause Module](https://medium.com/@thesyscoder/an-introduction-to-ansibles-pause-module-adding-delays-to-your-playbook-6f59b727ab4)<br>
+- [Colorful logs printing in PowerShell](https://medium.com/@thesyscoder/colorful-logs-printing-in-powershell-b7785c094aca)<br>
+
 ⚡ Fun Fact<br>"Site Reliability Engineering: where chaos is the test, uptime is the goal, and we dance with bugs – because debugging is our daily dance-off!" 😄<br>
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pruthvirajs2/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thesyscoder) 
