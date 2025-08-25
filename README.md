@@ -1,49 +1,207 @@
-# 👋 Hey there! Welcome to my GitHub profile!
+# Pruthviraj
 
-## 👨‍💻 About Me
-I'm a **Seasoned Site Reliability Engineer** with a **Computer Science degree**, passionate about making technology simpler for everyone! I specialize in **bridging the gap between complex tech and user-friendly solutions**. 🚀
+```typescript
+const profile = {
+  name: "Pruthviraj",
+  bio: "👋 Hi, I’m Pruthviraj Sonawane
+I’m a Seasoned Site Reliability Engineer (5+ yrs) with expertise in cloud-native platforms, Kubernetes, and automation.
 
-### 🌟 My Mission:
-To ensure that software not only **reaches customers swiftly** but does so in a **seamless and reliable manner**. I aim to create robust, resilient systems that make delivering software at scale feel effortless.
+🌩️ Cloud: Azure | GCP
 
-### ⚙️ What I Do:
-- 🛠️ **Building reliable systems** that scale effortlessly
-- 🧑‍🤝‍🧑 **Bridging the gap** between infrastructure and user-friendly experiences
-- ⏩ **Streamlining processes** to accelerate software delivery
-- 🔄 **Automating everything** to improve efficiency and reduce human errors
-- 🛡️ **Ensuring reliability** through proactive monitoring and continuous improvements
+🐳 Containers: Kubernetes | Docker | Linkerd Service Mesh
 
-### 🎯 Why I Do It:
-I believe that **great technology** should be invisible to the user — **simple, fast, and reliable**. My goal is to make complex infrastructure and operations feel as smooth as possible for both teams and customers.
+🛠️ Infra-as-Code: Terraform | Bicep | Ansible | ARM
 
----
+🔍 Monitoring & Reliability: Prometheus | Grafana | Azure Monitor | AppDynamics
 
-Feel free to check out my repositories and reach out if you want to chat about SRE, automation, or how to make things work better, faster, and stronger! 💬
+🚀 CI/CD: Azure DevOps | GitHub Actions | Secure pipelines
 
+🐍 Scripting & Dev: Golang | Python | Bash | PowerShell
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/thesyscoder) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thesyscoder) 
+🎯 Certified: CKA | CKAD | KCNA | Azure Fundamentals | Kubernetes & Cloud Native Security Associate
+📊 Passionate about observability, automation, and making technology simple & reliable.",
+  learning: "🎯 Learning Objectives
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=%23EF7B4D) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thesyscoder&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thesyscoder&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesyscoder&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Advance in Kubernetes Security → Deepen expertise around CIS Benchmarks, Pod Security Standards, and runtime security (CKS prep).
+
+Master Cloud-Native Architecture → Build resilient, scalable systems leveraging service meshes, event-driven designs, and microservices best practices.
+
+Observability at Scale → Explore OpenTelemetry + AI-driven anomaly detection to enhance reliability beyond traditional metrics.
+
+DevSecOps Automation → Strengthen pipeline security with supply chain integrity, secrets management, and compliance automation.
+
+Multi-Cloud SRE Practices → Expand skillset across Azure + GCP with cross-cloud deployments and failover strategies.
+
+System Design for Reliability → Focus on large-scale distributed systems, optimizing trade-offs between performance, cost, and reliability.",
+  interests: "🔍 Interests
+
+Cloud-Native Reliability → Designing scalable & fault-tolerant systems on Kubernetes,Azure & GCP.
+
+Automation & Toil Reduction → Building scripts,tools & workflows that make infra self-healing & hands-free.
+
+Observability → Metrics,tracing & logs with Prometheus,Grafana,OpenTelemetry to drive proactive reliability.
+
+Service Mesh & Microservices → Exploring Linkerd / Istio to enhance traffic routing,security & observability.
+
+DevSecOps → Embedding security into pipelines with automation & policy-driven compliance.
+
+Distributed Systems → Studying large-scale architectures for scalability,resilience & cost optimization.
+
+Tech for Humans → Bridging the gap between complex infra & simple,developer-friendly solutions.",
+  skills: [
+    "Next.js",
+    "Sass",
+    "HTML5",
+    "Express",
+    "MongoDB",
+    "PostgreSQL",
+    "Redis",
+    "SQLite",
+    "Docker",
+    "Kubernetes",
+    "Azure",
+    "GCP",
+    "GitHub Actions",
+    "Terraform",
+    "Ansible",
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "Python"
+  ],
+}
+```
+
+## 🌱 I'm currently learning
+
+🎯 Learning Objectives
+
+Advance in Kubernetes Security → Deepen expertise around CIS Benchmarks, Pod Security Standards, and runtime security (CKS prep).
+
+Master Cloud-Native Architecture → Build resilient, scalable systems leveraging service meshes, event-driven designs, and microservices best practices.
+
+Observability at Scale → Explore OpenTelemetry + AI-driven anomaly detection to enhance reliability beyond traditional metrics.
+
+DevSecOps Automation → Strengthen pipeline security with supply chain integrity, secrets management, and compliance automation.
+
+Multi-Cloud SRE Practices → Expand skillset across Azure + GCP with cross-cloud deployments and failover strategies.
+
+System Design for Reliability → Focus on large-scale distributed systems, optimizing trade-offs between performance, cost, and reliability.
+
+## 👀 I'm interested in
+
+🔍 Interests
+
+Cloud-Native Reliability → Designing scalable & fault-tolerant systems on Kubernetes, Azure & GCP.
+
+Automation & Toil Reduction → Building scripts, tools & workflows that make infra self-healing & hands-free.
+
+Observability → Metrics, tracing & logs with Prometheus, Grafana, OpenTelemetry to drive proactive reliability.
+
+Service Mesh & Microservices → Exploring Linkerd / Istio to enhance traffic routing, security & observability.
+
+DevSecOps → Embedding security into pipelines with automation & policy-driven compliance.
+
+Distributed Systems → Studying large-scale architectures for scalability, resilience & cost optimization.
+
+Tech for Humans → Bridging the gap between complex infra & simple, developer-friendly solutions.
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'thesyscoder' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/thesyscoder/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thesyscoder&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ⚠️ Important: Replace 'thesyscoder' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thesyscoder&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thesyscoder&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ⚠️ Important: Replace 'thesyscoder' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesyscoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=thesyscoder&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔝 Most Used Languages
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ⚠️ Important: Replace 'thesyscoder' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesyscoder&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'thesyscoder' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesyscoder&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "Next.js",
+    "Sass",
+    "HTML5"
+  ],
+  "backend": [
+    "Express",
+    "MongoDB",
+    "PostgreSQL",
+    "Redis",
+    "SQLite"
+  ],
+  "devops": [
+    "Docker",
+    "Kubernetes",
+    "Azure",
+    "GCP",
+    "GitHub Actions",
+    "Terraform",
+    "Ansible"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "Python"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "thesyscoder",
+  linkedin: "https://www.linkedin.com/in/thesyscoder/",
+  medium: "@thesyscoder",
+}
+```
+
+<div>
+<a href="https://github.com/thesyscoder"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://medium.com/@thesyscoder"><img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thesyscoder/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "pruthvirajs2007@outlook.com",
+  phone: "+91 9923816266",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
