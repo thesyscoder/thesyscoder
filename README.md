@@ -1,30 +1,119 @@
-# 💫 About Me:
-Greetings! 👋 I'm a seasoned Site Reliability Engineer with a mission to ensure our software not only reaches customers swiftly but does so seamlessly. A proud holder of a Computer Science degree, I've built my career around bridging the gap between complex tech and user-friendly solutions.
+<div align="center" style="background:#0b0f14;color:#dbe9ff;padding:36px;border-radius:12px;line-height:1.2">
+  <h1 style="margin:0;font-size:36px">Pruthviraj</h1>
+  <div style="margin-top:6px;font-weight:600;color:#9fb0c9">Site Reliability Engineer</div>
+  <div style="margin-top:12px;color:#9fb0c9;font-style:italic">Architecture first — make reliable systems feel ordinary.</div>
 
+  <div style="margin-top:18px">
+    <!-- Subtle animated illustration (SVG, no external assets) -->
+    <svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <defs>
+        <linearGradient id="g" x1="0" x2="1">
+          <stop offset="0" stop-color="#5dd0ff"/>
+          <stop offset="1" stop-color="#8fa3bd"/>
+        </linearGradient>
+      </defs>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthvirajs2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thesyscoder) 
+      <!-- lane -->
+      <rect x="8" y="30" width="204" height="3" rx="1.5" fill="#0e1620"/>
+      <!-- three nodes with subtle vertical bobbing -->
+      <g transform="translate(30,0)">
+        <circle cx="0" cy="28" r="6" fill="url(#g)" opacity="0.95">
+          <animate attributeName="cy" dur="2.4s" values="28;22;28" repeatCount="indefinite" begin="0s"/>
+        </circle>
+      </g>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=%23EF7B4D) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thesyscoder&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thesyscoder&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesyscoder&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+      <g transform="translate(110,0)">
+        <circle cx="0" cy="28" r="6" fill="#6fb9ff" opacity="0.9">
+          <animate attributeName="cy" dur="2.4s" values="28;24;28" repeatCount="indefinite" begin="0.3s"/>
+        </circle>
+      </g>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thesyscoder&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+      <g transform="translate(190,0)">
+        <circle cx="0" cy="28" r="6" fill="#8fa3bd" opacity="0.85">
+          <animate attributeName="cy" dur="2.4s" values="28;26;28" repeatCount="indefinite" begin="0.6s"/>
+        </circle>
+      </g>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thesyscoder&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+      <!-- lightweight pulse for observability -->
+      <circle cx="110" cy="28" r="10" stroke="#8fa3bd" stroke-opacity="0.06" fill="none">
+        <animate attributeName="r" dur="2.4s" values="10;18;10" repeatCount="indefinite" begin="0s"/>
+        <animate attributeName="stroke-opacity" dur="2.4s" values="0.06;0.0;0.06" repeatCount="indefinite" begin="0s"/>
+      </circle>
+    </svg>
+  </div>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thesyscoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Who I am
+
+I build the invisible infrastructure that determines whether services survive the night.  
+Platform-minded SRE with a CS foundation — I focus on ownership boundaries, measurable safety, and systems that age gracefully.
+
+---
+
+## How I think
+
+- Define invariants before you design features.  
+- Observe before optimizing — data drives decisions.  
+- Small blast radius and explicit recovery paths.  
+- Clear contracts and typed errors over clever shortcuts.  
+- Automate repetitive ops; keep humans for judgment.
+
+```text
+invariants → ownership → observability → automation → iterate
+```
+
+---
+
+## What I'm building now
+
+Working privately on production-grade, multi-tenant platform work — no public product details.  
+Instead of naming internal projects, here are the core design priorities I apply:
+
+- Typed RPC contracts and defensive error handling.  
+- Kubernetes-first deployments with GitOps and progressive rollouts.  
+- Strong isolation between tenants, small failure domains.  
+- Observability that maps directly to runbooks and SLOs.  
+- Developer experience: self-service primitives and safe defaults.
+
+I publish patterns, runbooks, and small runnable examples — not internal IP.
+
+---
+
+## Tech — curated & intentional
+
+A concise set I reach for when it fits the problem.
+
+- Orchestration: `Kubernetes` (operators, namespaces as guardrails)  
+- Infra: `Terraform`, GitOps (`ArgoCD`)  
+- Observability: `Prometheus`, `OpenTelemetry`, structured logs & traces  
+- Backend: `Go`, `gRPC`, `Postgres`  
+- Delivery: GitHub Actions (progressive rollouts)
+
+---
+
+## Writing & links
+
+Short, tactical posts and incident retrospectives — trade-offs and lessons.
+
+- ✒️ Medium — https://medium.com/@thesyscoder  
+- 🔗 LinkedIn — https://www.linkedin.com/in/thesyscoder  
+- 🧭 GitHub — https://github.com/thesyscoder
+
+---
+
+<details>
+<summary><strong style="cursor:pointer">Activity — peek</strong></summary>
+
+Active work lives in small, runnable repositories: platform patterns, observability recipes, incident playbooks.  
+I prefer code you can clone and run in a dev cluster.
+
+</details>
+
+---
+
+<div align="center" style="color:#9fb0c9;padding:18px 6px">
+I favour clarity over cleverness and systems that make reliable outcomes ordinary.  
+If you want a focused architecture review or a short design conversation — reach out on GitHub or LinkedIn. ✉️
+</div>
