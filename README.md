@@ -1,119 +1,124 @@
-<div align="center" style="background:#0b0f14;color:#dbe9ff;padding:36px;border-radius:12px;line-height:1.2">
-  <h1 style="margin:0;font-size:36px">Pruthviraj</h1>
-  <div style="margin-top:6px;font-weight:600;color:#9fb0c9">Site Reliability Engineer</div>
-  <div style="margin-top:12px;color:#9fb0c9;font-style:italic">Architecture first — make reliable systems feel ordinary.</div>
+<div align="center">
 
-  <div style="margin-top:18px">
-    <!-- Subtle animated illustration (SVG, no external assets) -->
-    <svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <defs>
-        <linearGradient id="g" x1="0" x2="1">
-          <stop offset="0" stop-color="#5dd0ff"/>
-          <stop offset="1" stop-color="#8fa3bd"/>
-        </linearGradient>
-      </defs>
+# Pruthviraj
+### Platform · Backend · Reliability Engineer
 
-      <!-- lane -->
-      <rect x="8" y="30" width="204" height="3" rx="1.5" fill="#0e1620"/>
-      <!-- three nodes with subtle vertical bobbing -->
-      <g transform="translate(30,0)">
-        <circle cx="0" cy="28" r="6" fill="url(#g)" opacity="0.95">
-          <animate attributeName="cy" dur="2.4s" values="28;22;28" repeatCount="indefinite" begin="0s"/>
-        </circle>
-      </g>
+> I build systems that are boring in production —  
+> predictable, observable, and calm under pressure.
 
-      <g transform="translate(110,0)">
-        <circle cx="0" cy="28" r="6" fill="#6fb9ff" opacity="0.9">
-          <animate attributeName="cy" dur="2.4s" values="28;24;28" repeatCount="indefinite" begin="0.3s"/>
-        </circle>
-      </g>
-
-      <g transform="translate(190,0)">
-        <circle cx="0" cy="28" r="6" fill="#8fa3bd" opacity="0.85">
-          <animate attributeName="cy" dur="2.4s" values="28;26;28" repeatCount="indefinite" begin="0.6s"/>
-        </circle>
-      </g>
-
-      <!-- lightweight pulse for observability -->
-      <circle cx="110" cy="28" r="10" stroke="#8fa3bd" stroke-opacity="0.06" fill="none">
-        <animate attributeName="r" dur="2.4s" values="10;18;10" repeatCount="indefinite" begin="0s"/>
-        <animate attributeName="stroke-opacity" dur="2.4s" values="0.06;0.0;0.06" repeatCount="indefinite" begin="0s"/>
-      </circle>
-    </svg>
-  </div>
 </div>
 
----
+<br/>
+<hr/>
+<br/>
 
-## Who I am
+## 🧭 About Me
 
-I build the invisible infrastructure that determines whether services survive the night.  
-Platform-minded SRE with a CS foundation — I focus on ownership boundaries, measurable safety, and systems that age gracefully.
+I’m a **Site Reliability Engineer** with a **Computer Science background**, working close to the heart of production systems.
 
----
+My work lives at the intersection of:
+- backend engineering  
+- platform design  
+- reliability & operations  
 
-## How I think
+I care deeply about **how systems behave over time**, not just how fast they ship.
 
-- Define invariants before you design features.  
-- Observe before optimizing — data drives decisions.  
-- Small blast radius and explicit recovery paths.  
-- Clear contracts and typed errors over clever shortcuts.  
-- Automate repetitive ops; keep humans for judgment.
+I value:
+- clear ownership
+- explicit contracts
+- designs that explain themselves when something breaks
+
+<br/>
+<hr/>
+<br/>
+
+## 🧠 How I Think About Systems
 
 ```text
-invariants → ownership → observability → automation → iterate
+Architecture before tools
+Contracts before assumptions
+Ownership before convenience
+Reliability before velocity
+Clarity over cleverness
 ```
 
----
+Good systems don’t need heroes.  
+They create space for teams to work safely.
 
-## What I'm building now
+<br/>
+<hr/>
+<br/>
 
-Working privately on production-grade, multi-tenant platform work — no public product details.  
-Instead of naming internal projects, here are the core design priorities I apply:
+## 🔭 What I’m Building
 
-- Typed RPC contracts and defensive error handling.  
-- Kubernetes-first deployments with GitOps and progressive rollouts.  
-- Strong isolation between tenants, small failure domains.  
-- Observability that maps directly to runbooks and SLOs.  
-- Developer experience: self-service primitives and safe defaults.
+I’m currently building **Nivak** — a real, multi-tenant HOA platform — to grow as a backend engineer and system architect.
 
-I publish patterns, runbooks, and small runnable examples — not internal IP.
+**Focus areas:**
+- Go + gRPC microservices
+- Strict service and data ownership
+- Tenant-aware system design
+- Kubernetes-first deployment
+- Observability as a baseline, not an afterthought
 
----
+This is not a demo project.  
+It’s a deliberate exercise in **building things correctly**.
 
-## Tech — curated & intentional
+<br/>
+<hr/>
+<br/>
 
-A concise set I reach for when it fits the problem.
+## 🛠 Technology (Curated)
 
-- Orchestration: `Kubernetes` (operators, namespaces as guardrails)  
-- Infra: `Terraform`, GitOps (`ArgoCD`)  
-- Observability: `Prometheus`, `OpenTelemetry`, structured logs & traces  
-- Backend: `Go`, `gRPC`, `Postgres`  
-- Delivery: GitHub Actions (progressive rollouts)
+**Platform & Cloud**  
+Kubernetes · Docker · Terraform · Argo CD · Azure · AWS · GCP  
 
----
+**Reliability & Observability**  
+Prometheus · Grafana · OpenTelemetry · Jaeger · ELK  
 
-## Writing & links
+**Backend & APIs**  
+Go · gRPC · REST · Node.js · FastAPI · Nginx  
 
-Short, tactical posts and incident retrospectives — trade-offs and lessons.
+**Frontend (System-Aware)**  
+React · Next.js · Redux · SASS  
 
-- ✒️ Medium — https://medium.com/@thesyscoder  
-- 🔗 LinkedIn — https://www.linkedin.com/in/thesyscoder  
-- 🧭 GitHub — https://github.com/thesyscoder
+<br/>
+<hr/>
+<br/>
 
----
+## ✍️ Writing & Presence
 
-<details>
-<summary><strong style="cursor:pointer">Activity — peek</strong></summary>
+I write about:
+- real-world reliability lessons  
+- backend & platform architecture  
+- system design trade-offs  
 
-Active work lives in small, runnable repositories: platform patterns, observability recipes, incident playbooks.  
-I prefer code you can clone and run in a dev cluster.
+**Links**
+- 📝 Medium: https://medium.com/@thesyscoder  
+- 💼 LinkedIn: https://linkedin.com/in/pruthvirajs2  
 
-</details>
+<br/>
+<hr/>
+<br/>
 
----
+## 📊 Activity
 
-<div align="center" style="color:#9fb0c9;padding:18px 6px">
-I favour clarity over cleverness and systems that make reliable outcomes ordinary.  
-If you want a focused architecture review or a short design conversation — reach out on GitHub or LinkedIn. ✉️
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thesyscoder&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesyscoder&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+
+_If you care about building systems that last,  
+we’ll probably have a good conversation._
+
 </div>
