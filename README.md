@@ -1,79 +1,101 @@
-# Hi — I'm TheSysCoder 👋
+# 👋 Hi, I'm Pruthviraj (@thesyscoder)
 
-![Hero illustration](./assets/hero-abstract.svg)
-
-A design-forward software engineer building clean developer tools and delightful web experiences. This README is pure Markdown (no raw HTML) and uses simple image assets and emoji so it renders nicely on GitHub.
-
----
-
-## About me
-
-I craft maintainable software with attention to accessibility, performance, and good UX.
-
-- 🔭 Currently: building a portfolio & open‑source dev utilities  
-- 🌱 Learning: Rust & distributed systems  
-- 💬 Ask me about: web apps, automation, developer tools, and product-focused engineering  
-- ⚡ Fun: minimal interfaces, well-written docs, and keyboard workflows
+> **Site Reliability Engineer | Backend & Platform Systems Enthusiast**  
+> Designing reliable systems, learning backend architecture deeply, and thinking in boundaries, not boilerplate.
 
 ---
 
-## Highlights
+## 🧭 Who I Am
 
-- 🧩 Full‑stack: React · Next.js · TypeScript  
-- ☁️ Systems: Docker · GitHub Actions · AWS  
-- 🛠 Scripting: Python · CLI tooling  
-- ✅ Practices: testing, observability, clean architecture
+I work at the intersection of **infrastructure, reliability, and backend systems**.
 
----
+My background is strong in:
+- Kubernetes & cloud-native operations
+- Production reliability & observability
+- CI/CD, automation, and platform tooling
 
-## Featured projects
+What I’m intentionally growing into:
+- Backend service design from first principles
+- API & contract-driven development
+- Multi-tenant system thinking
+- Platform & system architecture
 
-- 🦌 [Deer Studio](https://github.com/thesyscoder/deer-studio) — Branding & web design  
-- ⚙️ [dev-utils](https://github.com/thesyscoder/dev-utils) — Small CLI utilities for developers  
-- 🌐 [Portfolio](https://github.com/thesyscoder/portfolio) — Personal site (Next.js + MDX)
-
----
-
-## Illustration & icons
-
-I included two ready SVG motifs in the `assets/` folder you can reference in this README:
-
-- `assets/hero-abstract.svg` — geometric / abstract hero (used above)
-- `assets/deer-wireframe.svg` — stylized deer wireframe for case studies or sections
-
-To use a different motif or a double‑exposure portrait:
-1. Create or export a raster hero image (PNG/WebP) showing the double‑exposure effect (Photoshop / Photopea).
-2. Commit it to `assets/` and update the image link above: `![Hero illustration](./assets/your-hero.png)`
-
-Notes:
-- GitHub renders SVG images referenced from the repository (e.g. `![...](./assets/hero-abstract.svg)`).
-- Avoid inline HTML for layout because some renderers sanitize it — using Markdown + images keeps things portable.
+I care more about **correct design** than fast code.
 
 ---
 
-## How to customize quickly
+## 🧠 What I Care About
 
-1. Replace the image file at `assets/hero-abstract.svg` with your preferred SVG or a raster image at `assets/hero.png`.
-2. Edit the top lines (intro, highlights, project links) in this README to match your personal copy.
-3. Commit & push.
+- Service boundaries over frameworks  
+- Contracts before implementations  
+- Systems that fail **predictably**, not mysteriously  
+- Documentation as a first-class artifact  
+- Learning deeply instead of shipping blindly  
 
-If you want, I can:
-- Generate a monochrome double‑exposure PNG for you if you attach a portrait + texture image.
-- Replace the hero SVG here with a colored variant (tell me the palette).
-- Add small SVG icon files for the "Full‑stack / Systems / Scripting" lines and show how to reference them inline.
-
----
-
-## GitHub stats
-
-[![Thesyscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesyscoder&show_icons=true&count_private=true&theme=calm)](https://github.com/thesyscoder)
+> *If a system can’t be explained simply, it’s probably not well-designed.*
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
-- GitHub: [thesyscoder](https://github.com/thesyscoder)  
-- Website: https://your-website.example  (replace with your site)  
-- Email: hello@your-domain.example  (replace with your email)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pruthvirajs2)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thesyscoder)
 
-Thank you — pick one: "deer" / "double-exposure portrait" / "geometric", and whether you want monochrome or colored. I’ll generate the final SVG/PNG and the exact README update.
+---
+
+## 💻 Tech Stack (Hands-On)
+
+### Backend & Systems
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & Platform
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black)
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=thesyscoder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=thesyscoder&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesyscoder&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 Recognition
+
+![](https://github-profile-trophy.vercel.app/?username=thesyscoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+
+---
+
+## ✍️ Random Dev Thought
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🧘 Philosophy
+
+> *Move slowly.  
+> Design deliberately.  
+> Build things that last.*
+
+---
+
+## 👀 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=thesyscoder&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Generated using GPRM (https://gprm.itsvg.in) -->
