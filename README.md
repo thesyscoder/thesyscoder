@@ -1,124 +1,52 @@
-<div align="center">
+# Hi there 👋 I'm TheSysCoder
 
-# Pruthviraj
-### Platform · Backend · Reliability Engineer
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=Hello%2C%20I%27m%20TheSysCoder!&fontSize=40&animation=twinkling)
 
-> I build systems that are boring in production —  
-> predictable, observable, and calm under pressure.
+A concise, elegant profile README to showcase skills, projects and ways to connect.
 
-</div>
+---
 
-<br/>
-<hr/>
-<br/>
+## About Me
 
-## 🧭 About Me
+I'm a software engineer who loves crafting clean, maintainable software with attention to beautiful UX. I work across the stack and enjoy bringing order to complexity.
 
-I’m a **Site Reliability Engineer** with a **Computer Science background**, working close to the heart of production systems.
+- 🔭 Currently: building a personal portfolio and open-source developer tools
+- 🌱 Learning: distributed systems & Rust
+- 💬 Ask me about: web development, automation, DevOps, and design
+- ⚡ Fun fact: I love minimal interfaces and well-written docs
 
-My work lives at the intersection of:
-- backend engineering  
-- platform design  
-- reliability & operations  
+---
 
-I care deeply about **how systems behave over time**, not just how fast they ship.
+## Highlights
 
-I value:
-- clear ownership
-- explicit contracts
-- designs that explain themselves when something breaks
+- 🔧 Full‑stack: React, Next.js, Node.js, TypeScript
+- 🐍 Automation & data: Python, scripting, CLI tools
+- ☁️ DevOps: Docker, GitHub Actions, AWS
+- 🧭 Focus: clean architecture, accessibility, performance
 
-<br/>
-<hr/>
-<br/>
+---
 
-## 🧠 How I Think About Systems
+## Featured Projects
 
-```text
-Architecture before tools
-Contracts before assumptions
-Ownership before convenience
-Reliability before velocity
-Clarity over cleverness
-```
+- [Project One](https://github.com/thesyscoder/project-one) — Elegant UI toolkit and components
+- [Project Two](https://github.com/thesyscoder/project-two) — DevOps automation utilities
 
-Good systems don’t need heroes.  
-They create space for teams to work safely.
+(Replace links above with your real projects or remove if not applicable.)
 
-<br/>
-<hr/>
-<br/>
+---
 
-## 🔭 What I’m Building
+## GitHub Stats
 
-I’m currently building **Nivak** — a real, multi-tenant HOA platform — to grow as a backend engineer and system architect.
+[![Thesyscoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesyscoder&show_icons=true&count_private=true&theme=dracula)](https://github.com/thesyscoder)
 
-**Focus areas:**
-- Go + gRPC microservices
-- Strict service and data ownership
-- Tenant-aware system design
-- Kubernetes-first deployment
-- Observability as a baseline, not an afterthought
+---
 
-This is not a demo project.  
-It’s a deliberate exercise in **building things correctly**.
+## Let's connect
 
-<br/>
-<hr/>
-<br/>
+- GitHub: [thesyscoder](https://github.com/thesyscoder)
+- Website: https://your-website.example  (replace with your site)
+- Email: hello@your-domain.example  (replace with your email)
 
-## 🛠 Technology (Curated)
+---
 
-**Platform & Cloud**  
-Kubernetes · Docker · Terraform · Argo CD · Azure · AWS · GCP  
-
-**Reliability & Observability**  
-Prometheus · Grafana · OpenTelemetry · Jaeger · ELK  
-
-**Backend & APIs**  
-Go · gRPC · REST · Node.js · FastAPI · Nginx  
-
-**Frontend (System-Aware)**  
-React · Next.js · Redux · SASS  
-
-<br/>
-<hr/>
-<br/>
-
-## ✍️ Writing & Presence
-
-I write about:
-- real-world reliability lessons  
-- backend & platform architecture  
-- system design trade-offs  
-
-**Links**
-- 📝 Medium: https://medium.com/@thesyscoder  
-- 💼 LinkedIn: https://linkedin.com/in/pruthvirajs2  
-
-<br/>
-<hr/>
-<br/>
-
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thesyscoder&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesyscoder&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-
-_If you care about building systems that last,  
-we’ll probably have a good conversation._
-
-</div>
+Thanks for stopping by — if you'd like, tell me what sections or style you'd prefer and I can customize further ✨
